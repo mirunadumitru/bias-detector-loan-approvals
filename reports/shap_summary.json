@@ -1,0 +1,10 @@
+{
+  "top_features": [
+    "cibil_score",
+    "loan_term",
+    "loan_amount",
+    "income_annum",
+    "luxury_assets_value"
+  ],
+  "expected_value": 0.6371499999999937
+}
